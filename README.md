@@ -26,6 +26,8 @@ By using state-of-the-art classification models, including fine-tuned convolutio
 
 ## 🧰 Setup Instructions
 
+Model will be available in: https://huggingface.co/umm-maybe/AI-image-detector
+
 ### 1️⃣ Clone Repository
 
 ```bash
